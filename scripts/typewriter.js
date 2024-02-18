@@ -1,6 +1,6 @@
 const sentences = [
   "Sigh. To be fair, you have to have a very high IQ to understand vMUMDOGE and Maia DAO Ecosystem.",
-  "Its future applications are extremely subtle, and without a solid grasp of computing and economics most of its possible functions will go over a typical investor’s head."
+  "Its future applications are extremely subtle, and without a solid grasp of computing and economics most of its possible functions will go over a typical investor’s head.",
   "There’s also $HERMES free market outlook, which is deftly woven into his creation- his personal philosophy draws heavily from Robert Malthus, for instance.",
   "The shills understand this stuff; they have the intellectual capacity to truly appreciate the depths of this coin, to realize that it is not just speculation - it says something deep about LIFE.",
   "As a consequence people who dislike VMUMDOGE truly ARE idiots- of course they wouldn’t appreciate, for instance, the brilliance in the financial tokenized repository- the “AKITA V3,” which itself is a cryptic reference to Uranus and UST.",
